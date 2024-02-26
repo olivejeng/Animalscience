@@ -55,7 +55,7 @@ body {
   /*header section*/
   .hero_area {
     height: 100vh;
-    background-image: url(../images/hero-bg.jpg);
+    background-image: url(hero-bg.jpg);
     background-size: cover;
     display: -webkit-box;
     display: -ms-flexbox;
@@ -74,7 +74,7 @@ body {
     right: 0;
     width: 45%;
     height: 88%;
-    background-image: url(../images/hero-bg2.png);
+    background-image: url(hero-bg2.png);
     background-size: cover;
     background-position: left bottom;
     background-repeat: no-repeat;
@@ -129,7 +129,7 @@ body {
   }
   
   .custom_nav-container .nav_search-btn {
-    background-image: url(../images/search-icon.png);
+    background-image: url(search-icon.png);
     background-size: 17px;
     background-repeat: no-repeat;
     background-position: center;
@@ -170,7 +170,7 @@ body {
   }
   
   .custom_nav-container .navbar-toggler .navbar-toggler-icon {
-    background-image: url(../images/menu.png);
+    background-image: url(menu.png);
     background-size: 50px;
     width: 30px;
     height: 30px;
@@ -487,7 +487,7 @@ body {
   }
   
   .animal_section {
-    background-image: url(../images/animal-bg.jpg);
+    background-image: url(animal-bg.jpg);
     background-size: cover;
     color: #ffffff;
   }
@@ -633,7 +633,7 @@ body {
     left: -145px;
     width: 100%;
     height: 110%;
-    background-image: url(../images/pet-bg.png);
+    background-image: url(pet-bg.png);
     z-index: 1;
     background-repeat: no-repeat;
   }
@@ -865,7 +865,7 @@ body {
   }
   
   .client_section {
-    background-image: url(../images/client-bg.jpg);
+    background-image: url(client-bg.jpg);
     background-size: cover;
   }
   
@@ -931,11 +931,11 @@ body {
   }
   
   .client_section .carousel_btn-box .carousel-control-prev {
-    background-image: url(../images/prev.png);
+    background-image: url(prev.png);
   }
   
   .client_section .carousel_btn-box .carousel-control-next {
-    background-image: url(../images/next.png);
+    background-image: url(next.png);
   }
   
   .contact_section {
