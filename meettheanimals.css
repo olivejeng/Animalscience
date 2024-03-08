@@ -6,25 +6,25 @@ body {
   }
   
   .layout_padding {
-    padding-top: 120px;
-    padding-bottom: 120px;
+    padding-top: 30px;
+    padding-bottom: 30px;
   }
   
   .layout_padding2 {
-    padding-top: 45px;
-    padding-bottom: 45px;
+    padding-top: 10px;
+    padding-bottom: 40px;
   }
   
   .layout_padding2-top {
-    padding-top: 45px;
+    padding-top: 20px;
   }
   
   .layout_padding2-bottom {
-    padding-bottom: 45px;
+    padding-bottom: 40px;
   }
   
   .layout_padding-top {
-    padding-top: 120px;
+    padding-top: 20px;
   }
   
   .layout_padding-bottom {
@@ -496,7 +496,7 @@ body {
   }
   
   .animal_section {
-    background-image: url(Rosemarybg.png);
+    background-image: url(greenbg.png);
     background-size: cover;
     color: #ffffff;
   }
