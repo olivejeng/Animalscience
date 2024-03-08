@@ -389,6 +389,15 @@ body {
     border: 1px solid #4d7466;
     border-radius: 0;
   }
+  .div .btn-2:hover{
+    will-change: transform;
+    transition: transform 450ms;
+    transform: scale(1.5);
+    transition-duration: 5s;
+    transition: all 0.3s;
+    border: 1px solid #4d7466;
+    border-radius: 0;
+  }
   
   .slider_section .detail-box .btn-box .btn-2:hover {
     background-color: transparent;
