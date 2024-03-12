@@ -6,8 +6,8 @@ body {
   }
   
   .layout_padding {
-    padding-top: 120px;
-    padding-bottom: 120px;
+    padding-top: 12px;
+    padding-bottom: 12px;
   }
   
   .layout_padding2 {
@@ -20,15 +20,15 @@ body {
   }
   
   .layout_padding2-bottom {
-    padding-bottom: 45px;
+    padding-bottom: 12px;
   }
   
   .layout_padding-top {
-    padding-top: 120px;
+    padding-top: 12px;
   }
   
   .layout_padding-bottom {
-    padding-bottom: 120px;
+    padding-bottom: 12px;
   }
   
   .heading_container {
@@ -453,7 +453,7 @@ body {
   }
   
   .about_section .detail-box .heading_container h2 {
-    color: #151515;
+    color: #111111;
   }
   
   .about_section .detail-box p {
@@ -487,7 +487,7 @@ body {
   }
   
   .animal_section {
-    background-image: url(Rosemarybg.png);
+    background-image: url(greenbg.png);
     background-size: cover;
     color: #ffffff;
   }
@@ -952,6 +952,8 @@ body {
   
   .info_section {
     background-color: #ca943e;
+    width: 100%;
+    width: 1000000px;
     color: #ffffff;
     padding: 40px 0 75px 0;
     font-family: "Open Sans",
@@ -960,6 +962,7 @@ body {
   
   .info_section .row > div {
     margin-top: 35px;
+    width: 100%;
   }
   
   .info_section h5 {
